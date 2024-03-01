@@ -1,4 +1,9 @@
-# vuex
+# vuex-counter
+
+## Link to project
+```
+vuexcounterapp.netlify.app
+```
 
 ## Project setup
 ```
